@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 039300e2-2ed5-49c5-88a2-7b035c477681)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "TBD When Connectors are found" (at 20.32 88.9 0)
+    (effects (font (size 10.16 10.16)) (justify left bottom))
+    (uuid 9345818f-8b18-43f8-ad08-d2f4845e73cc)
+  )
+)
